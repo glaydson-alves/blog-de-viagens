@@ -1,0 +1,6 @@
+:root{
+    --bg-color:#191970;
+}
+.bg-tema-principal{
+    background-color: var(--bg-color);
+}
