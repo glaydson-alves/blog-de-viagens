@@ -13,13 +13,17 @@ img:hover{
 } */
 
 
-.row:hover .card:not(:hover){
+/* .row:hover .card:not(:hover){
     cursor: pointer;
-    /* opacity: .3; */
+    opacity: .3;
     filter: grayscale(1);
-}
+} */
 
 .card:hover{
     cursor: pointer;
-    scale: 1.03;
+    scale: 1.01;
+}
+.btn:hover{
+    border: 1px solid var(--bg-color);
+    
 }
