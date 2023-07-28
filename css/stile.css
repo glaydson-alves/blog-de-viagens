@@ -25,5 +25,29 @@ img:hover{
 }
 .btn:hover{
     border: 1px solid var(--bg-color);
+}
+.fa-brands{
+    color: #fff;
+}
+.fa-brands:hover{
+    scale: 1.5;
+}
+.fa-youtube:hover{
+    color:#c4302b;
+}
+.fa-twitter:hover{
+    color:#00ACEE ;
+}
+.text:hover{
+    background: linear-gradient(45deg, #fed373,
+    #f15245,
+    #d92e7f,
+    #515ecf);
     
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.fa-facebook:hover{
+    color: #3B5998;
+
 }
