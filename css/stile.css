@@ -39,7 +39,7 @@ img:hover{
     color:#00ACEE ;
 }
 .text:hover{
-    background: linear-gradient(45deg, #fed373,
+    background: linear-gradient(45deg, #fed373 20%,
     #f15245,
     #d92e7f,
     #515ecf);
